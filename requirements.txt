@@ -1,0 +1,5 @@
+flet==0.80.5
+mediapipe
+groq
+segno
+pyngrok
